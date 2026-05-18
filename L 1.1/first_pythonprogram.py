@@ -1,0 +1,1 @@
+print("name:Krishna,age:18,school:Gyanmanjari Vidhyapith")
